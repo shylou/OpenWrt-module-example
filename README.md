@@ -5,7 +5,7 @@ OpenWrt-module-example
 开发环境是在ubuntu下，搭建好openwrt的编译环境，这里不再多讲，网上教程很多
 在这里我们选择openwrt-trunk版本
 进入trunk的package文件夹创建模块目录：
-cd backfire/package
+cd trunk/package
  mkdir example
 进入example目录，创建Makefile文件和代码路径
 cd example
